@@ -82,6 +82,10 @@ Neste momento já iremos criar a primeira documentação do sistema ,  para veri
 Dentro da pasta  `output`foram criados varios arquivos,  e o principal `index.html` , abrindo este arquivo já temos a primeira documentação do sistema. 
 
     <img  src="imagens/doc_pagina1.jpg" />
+    
+    ![image](https://user-images.githubusercontent.com/1613816/183336536-d47e6414-4310-4802-9e6e-988869189d59.png)
+
+    
 
 
 Pode-se navegar por algumas partes desta pagina.
@@ -91,15 +95,18 @@ Acrescentei novos comentários e rodei novamente a documentação, entretanto os
 Adicionado mais comentarios para a documentação e agora consta no index.html
 
     <img src="imagens/doc_pagina02.jpg" />
+    
+    ![image](https://user-images.githubusercontent.com/1613816/183336599-8a8e9490-e541-48d2-9fe6-85108d01b464.png)
 
-    <img src="logo.jpg" alt="some text" width=60 height=40>
-
-
+    
 Criando o método de consulta ao CNPJ;
 
 Mesmo tendo apenas criado o Metodo já o documentamos e o resultado  ficou assim:
 
     <img src="imagens/doc_pagina03.jpg" />
+    
+    ![image](https://user-images.githubusercontent.com/1613816/183336654-9759385d-14ef-4fe9-abe0-7e839fa89447.png)
+
 
 
 Vamos criar o arquivo que irá utilizar a classe .
@@ -170,3 +177,10 @@ O conteudo do video  foi finalziado e apresentando as informações da forma cor
 
 
 ## Documentação
+
+A forma da apresentação da Documentação  não parece muito elegante,  e como ela é gerada parece  não estar correta, fazendo ser necessário mais estudo das configurações do PhpDoc para melhorar a qualidade da informação a ser apresentada. 
+
+
+
+
+
