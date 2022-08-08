@@ -81,9 +81,9 @@ Neste momento já iremos criar a primeira documentação do sistema ,  para veri
 
 Dentro da pasta  `output`foram criados varios arquivos,  e o principal `index.html` , abrindo este arquivo já temos a primeira documentação do sistema. 
 
-    <img  src="imagens/doc_pagina1.jpg" />
+<img  src="wdev/imagens/doc_pagina1.jpg" />
     
-    ![image](https://user-images.githubusercontent.com/1613816/183336536-d47e6414-4310-4802-9e6e-988869189d59.png)
+![image](https://user-images.githubusercontent.com/1613816/183336536-d47e6414-4310-4802-9e6e-988869189d59.png)
 
     
 
@@ -94,7 +94,7 @@ Acrescentei novos comentários e rodei novamente a documentação, entretanto os
 
 Adicionado mais comentarios para a documentação e agora consta no index.html
 
-<img src="imagens/doc_pagina02.jpg" />
+<img src="WDev/imagens/doc_pagina02.jpg" />
     
 ![image](https://user-images.githubusercontent.com/1613816/183336599-8a8e9490-e541-48d2-9fe6-85108d01b464.png)
 
@@ -103,9 +103,9 @@ Criando o método de consulta ao CNPJ;
 
 Mesmo tendo apenas criado o Metodo já o documentamos e o resultado  ficou assim:
 
-    <img src="imagens/doc_pagina03.jpg" />
+ <img src="wdev/imagens/doc_pagina03.jpg" />
     
-    ![image](https://user-images.githubusercontent.com/1613816/183336654-9759385d-14ef-4fe9-abe0-7e839fa89447.png)
+ ![image](https://user-images.githubusercontent.com/1613816/183336654-9759385d-14ef-4fe9-abe0-7e839fa89447.png)
 
 
 
