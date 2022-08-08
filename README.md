@@ -94,9 +94,9 @@ Acrescentei novos comentários e rodei novamente a documentação, entretanto os
 
 Adicionado mais comentarios para a documentação e agora consta no index.html
 
-    <img src="imagens/doc_pagina02.jpg" />
+<img src="imagens/doc_pagina02.jpg" />
     
-    ![image](https://user-images.githubusercontent.com/1613816/183336599-8a8e9490-e541-48d2-9fe6-85108d01b464.png)
+![image](https://user-images.githubusercontent.com/1613816/183336599-8a8e9490-e541-48d2-9fe6-85108d01b464.png)
 
     
 Criando o método de consulta ao CNPJ;
